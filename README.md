@@ -28,7 +28,7 @@ I write code, solve problems, and build things that matter. Passionate about cle
 - **Email:** [contact@nickneely.dev](mailto:contact@nickneely.dev)
 - **LinkedIn:** [linkedin.com/in/nick-neely](https://www.linkedin.com/in/nick-neely/)
 - **Portfolio:** [https://www.nickneely.dev/](https://www.nickneely.dev/)
-- **Web Agency** [https://neelysolutions.com/](https://neelysolutions.com/)
+- **Web Development Studio** [https://neelysolutions.com/](https://neelysolutions.com/)
 
 ---
 
